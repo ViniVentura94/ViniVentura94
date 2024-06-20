@@ -1,6 +1,7 @@
 ## Olá, me chamo Vinicius Ventura 👋
 
-Sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Sou um programador Front End, apaixonado por tecnologia.
+Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img align="center" width="80px" height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
