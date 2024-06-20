@@ -11,7 +11,7 @@ Sou um programador Front End, atualmente estou aprendendo e criando projetos com
 ### Conecte-se comigo:
 <br>
 <br>
-<img align="left" width="80px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="js-logo" /> <a href="https://www.linkedin.com/in/vinicius-ventura-50502a315/" a/>
+<a href="https://www.linkedin.com/in/vinicius-ventura-50502a315/"> <img align="left" width="80px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="js-logo" /> <a/>
 <br>
-<img align="left" width="80px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="js-logo" /> <a href="https://www.instagram.com/_viniventura_/" a/>
+<a href="https://www.instagram.com/_viniventura_/"> <img align="left" width="80px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="js-logo" /> <a/>
 <br>
