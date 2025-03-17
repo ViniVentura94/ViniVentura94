@@ -1,6 +1,6 @@
 ## Olá, me chamo Vinicius Ventura 👋
 
-Sou um programador Full Stack, apaixonado por tecnologia.
+Sou um Desenvolvedor Web, apaixonado por tecnologias.
 Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
