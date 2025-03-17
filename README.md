@@ -13,7 +13,7 @@ Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
-- <a href="https://https://www.linkedin.com/in/vinicius-ventura-passos/"> <img align="center" width="80px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> <a/>
+- <a href="https://www.linkedin.com/in/vinicius-ventura-passos/"> <img align="center" width="80px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> <a/>
 
 - <a href="https://www.instagram.com/_viniventura_/"> <img align="center" width="80px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" /> <a/>
 <br>
