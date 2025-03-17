@@ -1,6 +1,6 @@
 ## Olá, me chamo Vinicius Ventura 👋
 
-Sou um programador Front End, apaixonado por tecnologia.
+Sou um programador Full Stack, apaixonado por tecnologia.
 Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
